@@ -1,14 +1,14 @@
 {
-  "name": "@turbowarp/unpackager",
+  "name": "@potentiamod/unpackager",
   "version": "1.0.0",
-  "description": "https://turbowarp.github.io/unpackager/",
-  "homepage": "https://github.com/TurboWarp/unpackager#readme",
+  "description": "https://potentiamod.github.io/unpackager/",
+  "homepage": "https://github.com/PotentiaMod/unpackager#readme",
   "bugs": {
-    "url": "https://github.com/TurboWarp/unpackager/issues"
+    "url": "https://github.com/PotentiaMod/unpackager/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TurboWarp/unpackager.git"
+    "url": "git+https://github.com/PotentiaMod/unpackager.git"
   },
   "license": "MPL-2.0",
   "author": "",
